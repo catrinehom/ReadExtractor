@@ -48,3 +48,6 @@ To run full pipeline:
 ./ReadExtractor.sh [-i <fastq filename>] [-r <references filename>] [-o <output filename>]
 ```
 
+## Pipeline overview
+
+![alt text](https://github.com/catrinehom/ReadExtractor/blob/master/ReadExtractor.png)
